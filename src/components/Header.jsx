@@ -39,7 +39,7 @@ const Header = ({ sidebarOpen, toggleSidebar, isMobile }) => {
               <span className="text-sm font-semibold">PK</span>
             </div>
             {!isMobile && (
-              <span className="ml-2 text-sm font-medium hidden md:inline">Prince</span>
+              <span className="ml-2 text-sm font-medium hidden md:inline">Prince kumar</span>
             )}
           </div>
         </div>
